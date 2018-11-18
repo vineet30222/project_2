@@ -1,0 +1,42 @@
+.branding{
+  color:#fff !important;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 200px;
+}
+
+.navi_border{
+  border-bottom:3px solid rgb(27,188,155);
+}
+
+.confinement{
+  height:38px !important;
+  width:38px;
+}
+
+.img_confinement{
+  max-width:100% ;
+}
+
+.con_mar
+	{
+		max-width: 95%;
+
+	}
+.sign_up
+	{
+		background-color: rgb(52,58,64);
+		//opacity: 0.77;
+		//height: 400px;
+		border-radius: 5px;
+		//border-color: blue;
+    border-top:3px solid rgb(27,188,155);
+	}
+.con_sign
+	{
+		max-width: 90%;
+	}
+.a{
+  color:#fff;
+  text-align: center;
+}
